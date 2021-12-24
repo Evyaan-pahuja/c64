@@ -1,0 +1,14 @@
+#menu{
+width: 20%;
+
+}
+body{
+text-align: center;
+
+}
+.line{
+width: 75px;
+height: 7px;
+margin: 8px auto;
+background-color: black;
+}
